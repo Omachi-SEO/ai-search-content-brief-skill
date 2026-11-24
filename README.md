@@ -62,6 +62,10 @@ After installing the package:
 
 The full workflow depends on the SE Ranking MCP connection. Without it, the skill should not proceed by guessing research data.
 
+## Download Skill
+
+Release link - https://github.com/Omachi-SEO/ai-search-content-brief-skill/releases/tag/v1.0.0 
+
 ## When to use it
 
 Use the skill when you need a detailed, research-backed content brief for an article targeting a specific search query and buyer journey stage.
